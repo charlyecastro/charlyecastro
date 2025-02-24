@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Charlye 👋
 
 <!--
 **charlyecastro/charlyecastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### A little about me
+
+💻 Software Engineer
+<br/>
+🎓 UW Grad
+<br/>
+⚽ Fútbol
+<br/>
+🎬 Movies
+<br/>
+🇲🇽 First Gen
+<br/>
+🏡 Seattle & Manson
+
+### Languages
+- JS/TS
+- Python
+- Java
+- Go
+- Kotlin
+- Swift
+
+### Frameworks
+- [React, Next](https://nextjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Astro](https://astro.build/)
+- [Django](https://www.djangoproject.com/)
+- [Express](https://expressjs.com/)
+
+
